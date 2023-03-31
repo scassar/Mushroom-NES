@@ -1,5 +1,5 @@
 # Mushroom-NES
-This holds my mushroom fun muckaround code
+My little foray into asembly development for the NES
 
 Please refer to the thanks file for resource that helped me in developing this basic hobby program.
 
